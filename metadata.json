@@ -1,0 +1,6 @@
+{
+  "name": "Flashlight Mod",
+  "description": "A highly compatible, dark-themed Flashlight application featuring custom strobe patterns, SOS signalling, adjustable brightness controls, and battery-saving optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
